@@ -1,4 +1,4 @@
-# PyYahooWeather
+# yahoo_weather
 Python sample code for Yahoo Weather API<br>
 Reference from<br>
 https://pypi.python.org/pypi/weather-api/0.0.4<br>
